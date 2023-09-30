@@ -18,7 +18,7 @@ jobs:
           # I did not find a way to add the script line permanently to the head. This action adds it again after each push to master.
           if ! grep -q '<script defer data-domain="notes.felixzieger.de" src="https://plausible.sonnenhof-zieger.de/js/script.js"></script>' index.html; then
             echo "Script tag not found, adding it."
-            sed -i 's/<\/head>/<script defer data-domain="notes.felixzieger.de" src="https://plausible.sonnenhof-zieger.de/js/script.js"><\/script><\/head>/' index.html
+            sed -i 's|</head>|<script defer data-domain="notes.felixzieger.de" src="https://plausible.sonnenhof-zieger.de/js/script.js"></script></head>|' index.html
           else
             echo "Script tag already exists, no need to add."
           fi
