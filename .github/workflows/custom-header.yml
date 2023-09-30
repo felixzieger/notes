@@ -25,7 +25,13 @@ jobs:
             echo "Script tag already exists, no need to add."
           fi
 
+      - name: Check if changes were made
+        id: check_changes
+        run: |
+          git diff --quiet || echo "Changes detected"
+
       - name: Commit and push changes
+        if: steps.check_changes.outputs.code == 'Changes detected'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
