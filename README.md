@@ -1,4 +1,4 @@
-# notes.felixzieger.de
+# notes
 
 This is the source for [https://notes.felixzieger.de/](https://notes.felixzieger.de/).
 
