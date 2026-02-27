@@ -1,0 +1,5 @@
+- Source is this exceptional article: "[Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)" by David Cain:
+	- > We usually call these optional aspirations _goals_, but doing so immediately introduces a few problems that make them less likely to happen. 
+	  > 
+	  The first problem is that goals are things you [expect to do later](https://www.raptitude.com/2023/11/personal-goals-have-to-happen-now/), because they aren’t strictly necessary, and you’re currently busy with the to-do list stuff. You’ll do them, soon, but not quite yet. There must first be a lull in the noise and stress of normal life, in order to make goal-achieving feasible.
+- Carolin Dweck describes in her book "Growth Mindset" how limiting oneself has a big influence on ones life. But being aware of the concept does not change who you are. This is done by acting in the world, going on quests.

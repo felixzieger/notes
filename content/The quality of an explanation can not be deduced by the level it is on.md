@@ -1,0 +1,3 @@
+- The question of free will seems like a paradox because it’s asked at the level of the individual and answered at the level of the universal.
+- Explanations should be provided at the same level, in time and scale, as the problem they’re trying to solve.
+- The question of meaning falls into the same trap. (Naval on Twitter)

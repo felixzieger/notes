@@ -1,0 +1,9 @@
+- In "Pragmatists guide to governance" the Collins lay out a model of five factions which they use to describe revolutions. The five factions are
+	- The Economic Elite: Individuals with wealth
+	- The Social Elite: Individuals who hold status. Historically church + nobility. Today: media, academics
+	- The Military
+	- The Urban Dispossessed: People without economic or social power that live in cities
+	- The Rural Dispossessed: People without economic or social power that live in rural areas
+- The interesting bit for me how they used these factions to categorize internet users (to predict as they call it the "the online culture war").
+	- The Urban Dispossessed: Those that live online in context ruled by the internet's economic elite (owners of social networking sites), moderated by the internet's social elite (moderators of social networking sites). Redditors, Facebookers, ...
+	- The Rural: Those that live online in contexts not ruled by the economic or social elite. People on Nostr, 4chan, 8chan

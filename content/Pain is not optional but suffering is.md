@@ -1,0 +1,2 @@
+- Suffering is what happens when we resist what we experience.
+	- This is commonly felt with fear. We humans are limited beings. We are not super powerful and we only life for 4000 weeks. But accepting this is hard. It's scary. It doesn't fit our ideal picture of ourselves. See [[Accepting fear beats overcoming fear]] for more on this trap.

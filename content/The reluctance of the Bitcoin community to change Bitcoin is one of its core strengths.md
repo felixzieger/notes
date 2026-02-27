@@ -1,0 +1,4 @@
+- The natural world is structured in a way that makes it hard for one will to have to much power. The rules(natural laws) are predictable, and not subject to change just because someone wants them to.
+- In the digital domain, built by humans, the default was to have systems that relied on the stability of incentives and behaviors. There was no fundamental layer of predictability and unchangeability, no natural laws out constants.
+- Bitcoin introduces these constants and laws and thus allows to build on something that you can rely on.
+	- All changes to the Bitcoin protocol must be adopted by a majority of users (not sure how the different roles miners/hodlers play into this). This creates a system that is only changing when things are seen as better by a majority.

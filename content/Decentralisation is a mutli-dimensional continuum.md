@@ -1,0 +1,11 @@
+- While we need abstractions to understand something about the world, describing a system as "decentralised" or "centralised" often hides too much about the real dynamics the system exhibits.
+- A more useful mental model of decentralisation is that decentralisation is a continuum bet
+- If we want to compare two systems "decentralisation scores" we have to find a function that maps them onto the continuum.
+- Example:
+	- For crypto protocols, decentralisation can vary along multiple axis. For example we could start our analysis with a [0,1]^5 where 0 means 100% centralised:
+		- X_1: governance (one CEO with power to change the direction of the future vs bitcoin) [[The reluctance of the Bitcoin community to change Bitcoin is one of its core strengths]]
+		- X_2: protocol developers
+		- X_3: clients
+		- X_4: miners
+		- X_5: exchanges
+	- If a protocol is 0% decentralised along on axis, the whole system can not be described as decentralised. Thus the function could the product of the X_n.

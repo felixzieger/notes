@@ -1,0 +1,29 @@
+
+- ### Reality
+	- Reality exists. Reality is undivided and formless.
+		- I am a neutral monist. That means at the bottom layer of reality, there is no distinction between physical and mental or the like.
+		- I am also a pragmatist and I find the following distinctions to be useful.
+	- At least some parts of reality are not influenced by consciousness alone. It takes action to interact with these parts. When I talk about these parts, I call them bottom-up reality. People use different words for this. See [[Reality is that which, when you stop believing in it, doesn’t go away]].
+	- We do not experience bottom-up reality directly. Instead, we experience a top-down constructed VR-model that is trained to keep us alive. I call our experience of this VR-model experienced reality.
+	- Both bottom-up and top-down reality are real.
+- ### Truth
+	- Truthfulness is a property we ascribe to statements. I hold to a pragmatist definition of truth: True statements are those that are useful to believe. [[All models are wrong, some are useful]].
+	- We call a statement top-down true for a person if the person believes them to be true. This truth is always relative to a person. "Is it true for you?" is a sensible question to ask for these types of truths.
+		- Top-down truths are political truths if people with power believe them. [[Force, deception, and persuasion are the three ways to wield power]].
+		- Wishful thinking is creating top-down truths. Whether this brings a person closer to their goal or not, relies on the interaction of top-down truths and behaviour guided by it and relevant bottom-up truths.
+	- We call a statement bottom-up true if usefulness does not depend on whether people believe them.
+	- Bottom up truths can be verified decentrally. Political truths are relative. They change with what people think is true. Both forms of truths are real in a sense of "this is how the world is right now".
+	- Every human can access truth. [[There is no authoritative source of truth]]
+- ### Explanation
+	- An explanation is a set of statements that lay out what to pay attention to for making predictions. [[Every Explanation is a set of decisions]]
+- ### Decision making
+	- [[Decisions are always made by individuals]].
+	- Perception and experience are not passive. We decide what to pay attention. Paying attention is bottom-up true. Struggling against paying attention is top-down true.
+		- [[Science is about figuring out what to pay attention to]]
+	- The question what to pay attention lies at the heart of finding better explanations. The decisions, the answers to this question is a creative process that lies at the heart of what it means to be human. It's what makes us free.
+		- [[Our relation to reality determines our degree of freedom]]
+- ### Power
+	- Power means an individual decision changes how others behave. [[Force, deception, and persuasion are the three ways to wield power]].
+	- [[The alternative to the profit motive, is bureaucratic rule]].
+	- [[God, State, and Network are mechanisms for restricting power]].
+	- [[Legitimacy is what makes concentration of power durable]].

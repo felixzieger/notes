@@ -1,0 +1,3 @@
+> My understanding is that a big driver for moving industries around are labor costs. Human labor is a major input of manufactured goods, and wages are a significant component of costs. There are two ways to cut the costs: either you figure out a way to make the product with less labor, or you move the production where the labor is cheap. Tariffs and minimal wage makes labor costlier, pushing towards reducing the amount of work through better efficiency.
+
+from: https://matklad.github.io/2025/03/30/tariffs.html

@@ -1,0 +1,6 @@
+- Definitions:
+	- [[The quality of explanations are determined by rigidity and reach]]
+	- [[Wealth is the set of physical transformations an entity can cause]]
+- This is why striving for better and better explanations through conjecture and criticism (thus no longer deferring to authority) since the renaissance lead to such extraordinary results. [[We create better explanations through conjecture, criticism and testing]]
+- The 80/20 rule is about reminding ourselves that if we look closely we can take advantage of the nature of reality in this moment. There will always be things that are more effective than others. We have to keep looking to figure them out.
+- Smart people are continuously observing reality, create conjectures and criticise them. The rate at which you can do that is a function of intelligence.

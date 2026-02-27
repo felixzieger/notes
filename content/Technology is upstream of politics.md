@@ -1,0 +1,2 @@
+From a Balaji Quote:
+> Technology is the driving force of history. It lies upstream of culture, and thus upstream of politics. And it determines which fringe ideas have become newly feasible, and what elements of official consensus have become suddenly obsolete.

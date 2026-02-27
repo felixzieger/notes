@@ -1,0 +1,10 @@
+- Open protocols allow everyone to rely on what's in the spec today because only consensus among client users leads to adoption of changes in the protocols (through forks).
+	- With open I do partially mean decentralisation. [[Decentralisation is a mutli-dimensional continuum]]
+- Forking is a form of conjecture that can become the dominant explanation through criticism and testing. [[We create better explanations through conjecture, criticism and testing]]
+- This ability to evolve the rules of the games together is what makes open protocols suitable for playing infinite games because no single player can dictate how the game will be played in the future. [[Players of infinite games want the game to continue]].
+- Because interfaces are a big part of the experience of interacting with something, it's important that the interface can be controlled by the players directly. [[The ability to choose an interface allows you to decide which experiences you make]]
+- While cities are necessary in the physical world to develop and maintain technological knowledge, the online sphere does not require the existence of cities (i.e. central platforms that the users depend on and have to trust for services) for continued evolution. In the contrary. Giving power over the platforms our social standing depends on to single entities has us worse off (due to censorship and algorithms that maximise engagement). We can all live in freedom on the internet. [[The urban and rural dispossessed of the internet]]
+- [[Protocols, not platforms]] encapsulates this. By focusing on the part that does not make up the experience, we give freedom to individuals.
+- Example: Bitcoin is a protocol that is suited as a basis for infinite games due to a couple of properties it has:
+	- [[The reluctance of the Bitcoin community to change Bitcoin is one of its core strengths]]
+	- [[The simplicity of Bitcoin is one of its core strengths]]

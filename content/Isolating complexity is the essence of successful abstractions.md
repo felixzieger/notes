@@ -1,0 +1,2 @@
+- Abstractions are how we get to do more with less focus and effort. [[Bad abstractions are illusions]]
+- https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/

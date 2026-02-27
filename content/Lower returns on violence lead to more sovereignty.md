@@ -1,0 +1,10 @@
+- From [[The Sovereign Individual]].
+- If left to their own, people are acting in accordance to their understanding of the world and their values.  If someone wants to force you to act against your interest, they will need to either distort your view of reality (misinformation), influence what you value (advertisement) or threaten you (violence).
+- Returns on violence = Value - Cost
+- That's why it's crucial to understand offensive and defensive technologies in a space.
+- Example: bicycle owners buy locks to protect their property. However, those defense mechanisms have long been insufficient against bicycle thieves. There are additional potential measures: surveillance, guarded access, ... but the primitive, portable defensive measures (locks) did not keep up with offensive weapons (mobile powertools). Therefore bicycle owners are less free to put their bike where they want.
+- Example: public/private key cryptography is a defensive technology. As long as there are mathematical operations that are trivial in one direction but practically impossible to reverse, the defensive technology is stronger in cyberspace than offensive technologies.
+- The returns on violence are a fundamental variable for explaining history.
+- The world is shaped by the environments people live in. Alternative expressions of the same idea speak about incentives or mega political factors.
+- Industrialization lead to higher productivity compared to farming. Industrialists and their factories were easier to extort then farmers, too because they are big buildings, with every disturbance to normal operations being very costly. Thus nation states (via taxes) and labor unions (via strikes) could easily extort industrialists.
+- Gunpowder made it less expensive to build up forces (every man can hold a gun vs knights were very expensive).

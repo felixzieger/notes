@@ -1,0 +1,2 @@
+- The core thesis of [[The Courage to Be Disliked]] (as I remember it half a year after reading it) is that all problems are caused by interpersonal problems and being clear on who owns what eliminates the friction in relationships.
+	- I can't remember how the author defined problems any more, but I have to say that after reading the book, I was finished how much always being clear on who owns what reduces conflict and anxiety.

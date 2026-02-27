@@ -1,0 +1,2 @@
+- Solving our yearnings or "winning" is not possible, hence life is an infinite game. [[Players of infinite games want the game to continue]].
+- Our yearnings shape what we value and thus which physical transformations we want to make happen. [[Wealth is the set of physical transformations an entity can cause]].

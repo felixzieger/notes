@@ -1,0 +1,49 @@
+
+- Strategy is about applying strength against weakness to achieve or come closer to a goal.
+- Notice that in the case of strategy, concrete, measureable goals are usually not the starting point. Rather the general ambitions and desires are the starting point. Strategy is about building a bridge between this vague collection of ambitions and desires and concrete actions in the here and now to come closer to some of them.
+- A strategy consists of three core parts (Richard Rumelt [[Good Strategy, Bad Strategy]]).
+	- diagnosis: statement of the situation focusing on an important problem which is addressable and which will bring us substantially closer to reaching our goal
+	- guiding policies: frame/mindset for action
+	- set of coherent actions: actions that "come together" and amplify each others impact
+- Strategy forms an explanation of why a problem is important for reaching our goal while being addressable (diagnosis) and how to reach the goal (guiding policies + coherent actions).
+- Because strategy is used to decide how a majority of the systems resources play together, those decisions are very important to get right for the organization. Thus great care must be taken to maximize them. [[You can maximize things that don't conflict and have to satisfize everything else]].
+- Strategy is not an exercise of deciding between predefined options. Deciding what to do is part of the process, but since the solution space is gigantic, care must be taken to not collapse it before the crux has been identified.
+	- > Language is so powerful. If [I say] I’m going to design a chair, think how dangerous that is. Because you’ve just said chair, you’ve just said no to a thousand ideas.
+	- From John Ive
+- Strategy is an infinite game because reality changes. What is our strength today might not be a strength tomorrow. What is the bottleneck/weakness today might not be the same tomorrow. Therefore strategy is best played with an infinite mindset. [[Players of infinite games want the game to continue]].
+- ### Diagnosis
+	- A strategy is an explanation and [[The creation of a new explanation always starts with a problem]]. The diagnosis is one problem statement out of an infinite number of possible problem statements.
+	- Gnarly challenges as defined in [[The Crux]] have these properties:
+		- There might be no clear definition of the problem itself. You might start with a sense of things going wrong. This is okay. **Defining the problem can be a big part of strategy work.**
+		- Most of the times, there is no single goal but a bundle of ambitions.
+		- Alternatives may not be obvious and must be searched for.
+		- The connection between potential actions and expected outcomes are unclear. People disagree over the effectiveness, since causal links are not certain before things are tried out.
+	- Concepts to meditate on for arriving at a diagnosis (i.e. problem statement):
+		- [[The Crux]]
+		- [[Every system has a bottleneck on which efforts should be focused when trying to improve the system]]. What's the bottleneck in our case?
+		- critical winnable challenge
+		- important addressable problem
+		- addressable strategic challenge
+		- the game we can win
+		- Why is it important?
+		- Is it addressable?
+		- What about all of this is hard?
+	- If someone lists goals, start by asking: What about all this is difficult? Why is it difficult?
+	- If a diagnosis does not help you in coming up with guiding policies or coherent actions, the diagnosis is most likely not focused enough or not a problem statement but one of aspirations and intentions.
+	- From R. Rumelt's "Good Strategy, Bad Strategy": After my colleague John Mamer stepped down as dean of the UCLA Anderson School of Management, he wanted to take a stab at teaching strategy. To acquaint himself with the subject, he sat in on ten of my class sessions. Somewhere around class number seven we were chatting about pedagogy and I noted that many of the lessons learned in a strategy course come in the form of the questions asked as study assignments and asked in class. These questions distill decades of experience about useful things to think about in exploring complex situations. John gave me a sidelong look and said, “It looks to me as if there is really only one question you are asking in each case. **That question is what’s going on here?**” John’s comment was something I had never heard said explicitly, but it was instantly and obviously correct. A great deal of strategy work is trying to figure out what is going on. Not just deciding what to do, but **the more fundamental problem of comprehending the situation**.
+		- This is why [[Finding explanations requires deep knowledge of fundamentals]].
+- ### Signs of good strategy, signs of bad strategy
+	- A sign of good strategy is that it's assumptions rely on the specific situation one is in. This ties in with rigidity being an attribute of good explanations: [[Good Explanations are hard to vary]].
+		- As a contrasting example "Customers do not perceive we offer enough value for money." is a very bad diagnosis. That's what every company can say when leads are not buying whats they offer. But what follows from this? Nothing.
+		- If it doesn't rely on specific situations, the company does not provide new explanations and doesn't contribute to the growth of knowledge.
+	- If a goal is proclaimed, absence a diagnosis, it is a decision without a foundation. [[Goals are a decision on what's important]] and to chose what's important means we need to understand our situation. If you simply have a goal but no idea how to get there you are in wishful thinking territory; [[Wishful thinking stems from an impulse to minimise surprisal]]. Wishful thinking is not strategy.
+	- A diagnosis that hinges on people working harder or customers finally valuing something that you already did for a long time. Tip: Start with the assumption that [[Human action is revealed preference under constraint]].
+- ### Quotes
+- Ben Horowitz:
+	- > When a company goes astray, you talk to employees and they say, ‘We have no strategy. We don’t know where we’re going.’ The strategy is the story. They’re not different. The strategy is the story you tell. It’s the why. If you can’t tell that in a massively compelling way, who’s going to follow you? That’s what makes people get up in the morning and do stuff.
+	  The story must explain at a fundamental level why you exist. Why does the world need your company? Why do we need to be doing what we’re doing and why is it important?
+- ### Strategy models make assumptions
+- Rumelt argues that models like the five factor models always have to make assumptions that allow you to focus on a few factors (or a single factor) for what is important to pay attention to for success. Similar to mathematical theorems, those are only applicable if the assumptions are met in your case. Thus asking what the underlying assumptions are is always important to understand if a model is applicable.
+	- As an example he gives is Michael Porter "five forces" industry analysis
+		- https://en.m.wikipedia.org/wiki/Porter's_five_forces_analysis
+		- The model is useful for an industry where differences between profits are smal. See [[The Crux]] page 167 for details.

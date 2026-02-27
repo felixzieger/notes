@@ -1,0 +1,4 @@
+- The key idea is that every action that needs to happen can only ever be done by one person. If you need to collaborate, then it's still single tasks, owned by one person, that may need to be orchestrated.
+- Thus when something went wrong, [[It's not about whose fault it is. It's about whose problem it is]]
+- Once the owner is clear, make sure to let them carry out the task. [[Don't take over tasks for other people]]
+- For more on this, I recommend [[The Courage to Be Disliked]]

@@ -1,0 +1,15 @@
+
+- Arriving at explanations is a creative act that involves deciding what to pay attention to make predictions.
+- Every explanation can be described by the minimal set of decisions that went into it.
+	- The decisions behind explanations are of the form
+		- What aspects of reality do I leave out and which do I include?
+		- Which parts of perception do I cluster together and which do I treat separately.
+		- A set of formulas to arrive at predictions.
+	- Or in the language of system theory:
+		- What is the system I look at?
+		- Which components of the system made of?
+		- What do component interactions lead to?
+- [[Good Explanations are hard to vary]] means that the decision which aspects to include and leave out is minimal in the sense that leaving out something makes it a different explanation and adding something does not contribute to the explanatory power of the explanation (i.e. the decision could be made any other way and it wouldn't change the explanatory power).
+- I started writing this page with a hunch that there's a [Duality](https://en.wikipedia.org/wiki/Duality_(mathematics)) between Explanations and Decisions (Duality as used in mathematics). Roughly:
+	- > Every explanation maps to a unique set of minimal necessary decions and vice-versa.
+	- I am not convinced that this holds anymore. But I take the core observation as stated in the title for obviously true.

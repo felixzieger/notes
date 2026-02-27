@@ -1,0 +1,2 @@
+-
+- The title is a subtitle in https://longform.asmartbear.com/disruptive/which contrasts incremental improvements in business with disruptive approaches, arguing that aiming to provide an incremental improvement is undervalued.

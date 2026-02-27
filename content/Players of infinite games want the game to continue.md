@@ -1,0 +1,12 @@
+
+- From "The Infinite Game" (Sinek):
+	- In finite games, like football or chess, the players are known, the rules are fixed, and the endpoint is clear. The winners and losers are easily identified.
+	- In infinite games, like business or politics or life itself, the players come and go, the rules are changeable, and there is no defined endpoint.
+- I gave James Carse 's original book on infinite games a read but I found it very repetitive.
+- Approaching an infinite game with an finite mindset leads looks leads to short-sightedness.
+	- "The score takes care of itself" -> infinite
+	- "We need to make next quarters numbers look good" -> finite
+- The optimist worldview laid out in [[The Beginning of Infinity]] views progress as an infinite game. We play by finding better and better explanations: [[Optimists view problems as inevitable and soluble]] and [[We create better explanations through conjecture, criticism and testing]].
+- The infinite mindset accepts things about reality that we can't change like human limitedness (time and power wise). [[Our relation to reality determines our degree of freedom]].
+-
+- Maybe the main difference, is that in the infinite game mindset, players recognize that [[Games are sets of constraints of which participants can opt-out of]]. Players with a finite game mindset, want the game to end but think they can't (yet).

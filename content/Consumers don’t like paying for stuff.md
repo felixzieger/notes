@@ -1,0 +1,3 @@
+
+-
+	- > In general, consumers don’t like paying for stuff, hence the multi-trillion-dollar success of having people “pay” with attention (advertisement) and data (privacy). This is why I think self-funded companies in particular should target businesses as customers; unlike consumers, they will spend money to solve problems and to [make more money](https://longform.asmartbear.com/more-value-not-save-money/) [⤴️](https://omnivore.app/me/https-longform-asmartbear-com-problem-18ca60d475f#56d42713-10f3-415a-aaa3-1686f2968b60)

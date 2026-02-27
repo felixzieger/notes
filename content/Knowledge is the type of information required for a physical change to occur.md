@@ -1,0 +1,3 @@
+- Alternative formualtion: Knowledge is a form of information which is necessary for a physical transformation.
+- Explanations are one form of explicit knowledge.
+- Implicit knowledge

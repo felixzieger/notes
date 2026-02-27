@@ -1,0 +1,3 @@
+- Problem of production: How do I have to act to bring the world more in the direction I want to have it?
+	- Progress (knowledge creation/the creative act) is driven by individuals, not groups
+- Thinking "progress is inevitable" is dangerous. Choices matter. How we do things matter. We are not just along for the ride.

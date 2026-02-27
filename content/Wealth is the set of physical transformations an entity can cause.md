@@ -1,0 +1,14 @@
+- [[Knowledge is the type of information required for a physical change to occur]]
+- The starting point for creating knowledge is having a problem. [[The creation of a new explanation always starts with a problem]]. Coming up with a solution is a creative act.
+- Technology is the main way to sustainably increase wealth globally. [[Technology allows us to do more with less]].
+- We use money to keep track how much people helped others reach more desirable physical configurations. At the core this works because people only give you money without force if they value what you give them in return. [[Prices are the outcome of a decentralised discovery process]] of what people want.
+- Improving efficiency increases wealth only if you look at a fixed timespan (like a human lifetime. Simply speeding things up does not have value in the infinite game. [[Players of infinite games want the game to continue]]. However, efficiency gains often make qualitative improvements feasible that were not thinkable before.
+	- Example: Without Moore's law information processing would be much less accessible (phones, touchscreens, navigation with Google Maps, knowledge sharing on forums, ...) and we would be less wealthy.
+	- So efficiency matters the most if it makes something 2x, 20x or 200x cheaper/faster. A 1.02x or 1.2x increase is good for the bottom line of a business, but does not change the world on its own. However(!) efficiency gains can accumulate and spending time on it may be key for more serious break throughs. And of course, 1.2x with a big enough starting point is still a huge absolute improvement.
+- That wealth also describes how much money one has is an example of how every language includes explanations about the world.
+- Increasing power is the drive behind life. Thus the drive to increase knowledge and wealth are drive by the will to power. [[All action is will to power]].
+
+- ### Consequences of this definition
+- While I would say the explanations about nuclear fission increased wealth, I have a hard time calling the cold war (where these explanations were used to built nuclear weapons that allowed massive transformations of the physical world) an era of increased wealth. One might argue that physical bombs allow large scale but coarse physical transformations (chaos), thus they do not represent a material increase in wealth.
+- I totally see being able to deflect asteroids using nukes represents increased wealth.
+- This consequence reminds me of the arguments against GDP as a measure of wealth. GDP measures a flow while wealth is a stock. However, the relation of the flow GCP to the stock wealth is not clear cut. Natural disasters destroy wealth but not necessarily decrease

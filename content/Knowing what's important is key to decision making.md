@@ -1,0 +1,6 @@
+- Whether you are [satisficing or maximizing](https://longform.asmartbear.com/maximizing/) making decisions comes down to finding out what it is you want. Even the decision whether to satisfice or maximize is a call about what's important to you.
+	- [[You can maximize things that don't conflict and have to satisfize everything else]]
+- Questions can be framed differently:
+	- Focusing on the goal: What is the optimal governance system? See [[Take a snapshot with your mental camera for effective goal setting]]
+	- Focusing on the process: How can I make this existing system better?
+- Because we are human we don't always know what we want. A common example is maximizing things like income or status that will never lead to the desired results (happiness) alone. [[Herzberg's Motivation-Hygiene Theory]]

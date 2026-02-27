@@ -1,0 +1,2 @@
+- Example from social networks. [[The ability to choose an interface allows you to decide which experiences you make]]. In essence you get a a "credible exit path". One, where you walk away with what matters most to you. By keeping the power to do so, you force the other party to stay honest.
+	- For a deeply technical discussion of this, I recommend this blog post on bluesky: https://dustycloud.org/blog/how-decentralized-is-bluesky/

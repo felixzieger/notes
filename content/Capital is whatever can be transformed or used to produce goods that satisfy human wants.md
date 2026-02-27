@@ -1,0 +1,4 @@
+- From [[Bitcoin is Venice]].
+	- Capital is entirely subjective. We call capital that which we use in the offices if creating a good.
+		- Milk may be a beverage, but it can also be capital which we can use to produce a cake which will satisfy our hunger. Capital is thus an abstract idea we superimpose in reality to describe things which have subjectively useful potential energy.
+	- It is worth being as clear as possible that *money is not capital*. Money is the right to time entirely in general. It is liquid and fungible. Capital is time that has been crystallized towards a specific end. It is illiquid and nonfungible.

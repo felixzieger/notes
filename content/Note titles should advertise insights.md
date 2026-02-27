@@ -1,0 +1,10 @@
+- Andy Matuschak's notes on [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes) were a good starting point for me to get into a note taking habit.
+- Especially [viewing note titles as APIs](https://notes.andymatuschak.org/Evergreen%20note%20titles%20are%20like%20APIs), [preferring statements to sharpen claims](https://notes.andymatuschak.org/Prefer%20note%20titles%20with%20complete%20phrases%20to%20sharpen%20claims), the technique to create stubs via backlings (from [Taxonomy of note types](https://notes.andymatuschak.org/Taxonomy%20of%20note%20types)) were valuable pointers.
+- Having titles advertise insights or core concepts of my mental models help me surprise myself while writing notes. [[Writing notes should lead to surprising connections]]. Effectively, I am building a web of truth-claims.
+	- Relevant David Deutsch quote
+- Having a high standard for note titles (preferring statements over single-noun titles) forces me to engage more with what I wrote about. Note that single-noun titles are up-for-grabs when it comes to "what does this tell you?" and thus there is no explanatory value behind single-noun titles. [[Good Explanations are hard to vary]]
+	- Backlinks also tend to be more meaningful for statements. Instead of just linking a single word as a neutral definition, I have to engage with the statement and see where it fits into the context of the page.
+- If a concept is actually a Theory (thus containing statements/encoding understanding), having a concept note is fine.
+	- Example:
+		- [[Herzberg's Motivation-Hygiene Theory]]
+		- [[Every system has a bottleneck on which efforts should be focused when trying to improve the system]] could equally well be called *Theory of Constraints*. If in doubt, I still prefer the statement.

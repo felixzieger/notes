@@ -1,0 +1,7 @@
+- If technology in a field is not progressing it's regressing.
+- Progress is not inevitable. It. must be fought for every day.
+- There are preconditions for technological progress.
+	- People can develop specialisations. This is provided by property rights and free trade. Property rights give you continuity. You can from today extrapolate to tomorrow because you don't have to fear people will come and steal your stuff.
+	- People are rewarded for specialisation. Free trade creates incentives to become good in a field. [[Finding explanations requires deep knowledge of fundamentals]] and deep knowledge requires focus.
+	- A big enough connected population. Connected means ideas are exchanged in the population. For every specialisation to advance to and sustain a given level of capabilities, there is a minimum number of connected people that are needed given a set of technologies for replication of knowledge from one person to the next and from one generation to the next. [[All complex systems without error correction fail]]
+		- "According to the anthropologist Joe Henrich, human beings learn skills from each other by copying prestigious individuals, and they innovate by making mistakes that are very occasionally improvements – that is how culture evolves. The bigger the connected population, the more skilled the teacher, and the bigger the probability of a productive mistake. Conversely, the smaller the connected population, the greater the steady deterioration of the skill as it was passed on." - [[The Rational Optimist]]

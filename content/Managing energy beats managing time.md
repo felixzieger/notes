@@ -1,0 +1,6 @@
+- The times in my life I felt least in control of my time were the times I was least happy and trying most to manage my time. However managing my time better was never the mindset that helped me getting back in the "I'm in control" mindset.
+- Saying no to more things helps at those times.
+- Oliver Burkes book "4000 weeks" is an exploration about underlying fears of losing control: being limited power and time wise. Accepting that we are finite beings means we give up the hope that one day we will be able to fulfill all the to-do items on all of our lists and then be happy. [[Accepting fear beats overcoming fear]].
+	- Behind our avoidance strategy lies the belief that once we can satisfy everyone's expectations we can be happy and less stressed out again. This is wrong because [[Happiness is never around the next corner]].
+- I have the instinct to do less stuff but what actually gets me out of holes is doing more stuff that gives me energy.
+- [[Happiness is never around the next corner]]

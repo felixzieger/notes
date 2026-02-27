@@ -1,0 +1,9 @@
+- [[Our brains try to minimise surprisal]] (which is how we learn anything: we fine tune our predictive machine to better match reality) and [[Perception is controlled hallucination]]. Wishful thinking is the dangerous combination of these two: Our brain tries to minimise surprisal by sticking to a predictive model that puts itself in the center of the world. It thus fails its purpose: determining which action to take in response.
+- I first read explicitly about wishful thinking in Richard Rummelt's excellent book [[Good Strategy, Bad Strategy]]. He describes the connections of wishful thinking with new age religion. I remember I found it interesting to read, but I do not remember many details. However, the concept of wishful thinking stuck with me.
+- One of the beliefs that underpins wishful thinking is that by wishing for something, it will become true. While human will is powerful - in that humans can chose challenges and overcome them - just wishing for something without acting accordingly is not effective.
+- Wishful thinking gives a way out of the "uncomfortable struggle" with problems and thus reality. It's a form of avoiding reality.
+- In [[The Crux]], Richard Rumelt calls the outcome of reality avoidance in organizations "positive thinking success theatre".
+- The term fact-value distinction captures what people fail to understand when they go from an ought to an is. See https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction.
+	- When trying to change the world, talking about how you want things to be is not getting you closed to the change. [[Should is a useless word]]
+- As Marcus Aurelius once said
+	- > We get angry, sad, or disappointed because reality doesn't meet our expectations.

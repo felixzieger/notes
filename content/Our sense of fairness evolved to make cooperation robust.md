@@ -1,0 +1,2 @@
+- > Think about it: if we have evolved cooperative behavior without an awareness of fairness, ‘free riders’ (those contributing less than the average in a group) would have won out and reduced the amount of cooperation we were doing back toward zero. This is why perceived fairness is VERY important to us
+	- Quote from https://open.substack.com/pub/philiprosedale/p/tech-is-a-tool-not-a-religion?r=2c7b&utm_campaign=post&utm_medium=web

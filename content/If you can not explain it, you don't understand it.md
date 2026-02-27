@@ -1,0 +1,5 @@
+- I first noticed this while studying mathematics. The people that could explain things very well were the ones that were also very good at solving problems elegantly and fast.
+- [[Atlas Shrugged]]
+	- > “A mystic is a man who surrendered his mind at its first encounter with the minds of others. Somewhere in the distant reaches of his childhood, when his own understanding of reality clashed with the assertions of others, with their arbitrary orders and contradictory demands, he gave in to so craven a fear of independence that he renounced his rational faculty. At the crossroads of the choice between ‘I know’ and ’.They say,.‘.
+- Mysticism: Lack of understanding is taken as a sign that one is not ready to understand. There are things that can't be understood.
+- Optimism: Multiplying good explanations in the world by explaining/teaching what one knows improves the world. Failing to understand can be overcome. There is no fundamental limit to understanding. [[Optimists view problems as inevitable and soluble]]

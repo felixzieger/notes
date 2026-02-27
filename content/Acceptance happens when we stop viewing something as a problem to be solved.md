@@ -1,0 +1,21 @@
+
+- Meditators realize that everything is already there and there is no need to change
+	- A powerful experience during meditation is when my mind calms down for a few seconds and I realize that all experiences that I have ever had, all feelings, thoughts, sounds, sensations have appeared and disappeared. And what is constant is my consciousness.
+	- The realization that no problem needs dealing with right now helps with relaxing and being fully present.
+	- [[Optimists view problems as inevitable and soluble]] but they don't say that everything that can be seen as a problem is one. nor that every problem has to be present in your mind all the time. Meditators view the current moment (now) as the only thing that is not an illusion and as problem-free. There are thoughts, feelings, sensations and consciousness. That's what is there before we start judging and conjuring.
+- Four Thousand Weeks (Burkeman) is about shifting our view on some things from "problem to be solved" to "not a problem to be solved".
+	- Desire: Making everyone around us happy. [[Our basic human yearnings lead to suffering]]
+	- Fear: Our short time on the planet.
+	- Fear: Our limited ability to have an impact on the world.
+	- Burkeman argues that these fears and desires lie behind the eagerness for trying out productivity hacks and time management systems.
+- Even stronger and more liberating then accepting is embracing. [[Our relation to reality determines our degree of freedom]]
+- One way to arrive at acceptance is to see things as they really are. [[Reality is that which, when you stop believing in it, doesn’t go away]]
+- A nice quote from an article that describes how people struggle using technology
+	- > I used to say that I was good at using technology to solve problems. And I am. But I’ve also taken some wisdom from Adam Savage over in *MythBusters*-land and have shifted how I frame that same relationship when talking to patrons: “Let’s not look at this as a problem to be solved; more like a process to be managed.
+-
+- The opposite of acceptance/integration is:
+	- Resistance
+	- Arguing with reality
+	- Inner struggle
+	- wishful thinking. [[Wishful thinking stems from an impulse to minimise surprisal]]
+	- mentally argue with things that are

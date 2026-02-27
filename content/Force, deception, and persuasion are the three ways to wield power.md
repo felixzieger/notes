@@ -1,0 +1,9 @@
+- The world is getting better, the less coercion (in the form of force and deception) happens and more persuasion happens. However, a fully networked world (with powerless hierarchies) is too vulnerable for power-grabs so hierarchies have an important complementary role to play in ensuring good conditions for networks to emerge and strengthen.
+- I would argue that both force and deception are forms of violence. [[Lower returns on violence lead to more sovereignty]]. Technological developments that had a big impact on the returns of violence:
+	- Knights -> rifles
+	- Mass media -> Internet
+- The Bitcoin maximalists argue that Bitcoin is another one
+	- Fiat -> Bitcoin
+- Social technologies—like governance structures or laws—can reduce the usefullness of force and deception for obtaining respect/money.
+- Quote from Dune
+	- > The convoluted wording of legalisms grew up around the necessity to hide from ourselves the violence we intend toward each other. Between depriving a man of one hour from his life and depriving him of his life there exists only a difference of degree. **Elaborate euphemisms may conceal your intent to kill, but behind any use of power over another the ultimate assumption remains: "I feed on your energy."**

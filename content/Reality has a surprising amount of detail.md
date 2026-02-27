@@ -1,0 +1,3 @@
+- http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+- Because there is a surprising amount of details and figuring which bits are important for coming up with good explanations (which is about leaving the right things out) [[Finding explanations requires deep knowledge of fundamentals]].
+	- Leaving the right things out is another formulation of [[Good Explanations are hard to vary]].

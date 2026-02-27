@@ -1,0 +1,3 @@
+- A stock is the memory of the history of changing flows within the system.
+- Stocks change over time through the actions of a flow.
+- Good intro to system thinking: "[Thinking in systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)"

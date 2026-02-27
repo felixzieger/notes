@@ -1,0 +1,7 @@
+- [[The more I care about something, the less I tolerate the possibility of changing incentives of someone with power over the things supply chain]]
+- Example: Companies need to own the cloud foundation platform/control plane/internal developer platform.
+- Example:
+	- Companies need to own the cloud foundation platform/control plane/internal (developer) platform so that switching costs/introduction of new platform offerings stay at a reasonable level.
+	- Email clients allow you to decide if you want to see images/custom fonts/...
+	- Being able to choose the timeline algorithm for discovering content in social networks allows you to decide if you want to be exposed to enraging content or educational content.
+- Example: Email clients

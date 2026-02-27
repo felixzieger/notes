@@ -1,0 +1,2 @@
+- David Deutsch: "The growth of knowledge begins with problems."
+- Albert Einstein: "No problem can be solved by the same kind of problem that created it."

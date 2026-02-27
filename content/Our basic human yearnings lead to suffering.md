@@ -1,0 +1,50 @@
+
+- For each yearning the book "A liberated mind" lays out where it comes from and what happens if our problem-solving minds get involved for "solving" those yearnings and strategies (pivots) for dealing with them.
+- Human yearnings describe what humans on average value.
+- For each yearning the book "A liberated mind" goes over their origin and how attempts to "solve" those yearnings can misguide us. It also lays out and strategies (pivots) for dealing with them.
+	- I am not my mind and my mind is mainly good at solving problems.
+	- Life is not a problem to be solved.
+		- ![image.png](../assets/image_1708950199467_0.png){:height 183, :width 371}
+- There is a fundamental difference between optimism and acceptance [[Optimists view problems as inevitable and soluble]] while [[Acceptance happens when we stop viewing something as a problem to be solved]].
+- Optimism and acceptance are two mindsets that seemed opposed to me at first. However, optimists start out by accepting that existence exists ([[A is A]] as Ayn Rand calls it in Atlas Shrugged) and thus with acceptance. If you are unwilling to accept things that are real you end up in denial. [[Reality is that which, when you stop believing in it, doesn’t go away]].
+- As an Optimist, I look for explanations that bring me closer to what I value. [[Our basic human yearnings shape the world we live in]].
+- [[Pain is not optional but suffering is]].
+- One thing I don't remember reading about in the book is a yearning for things to be fair. I remember violations of what I perceived as fair as being one of the strongest sources for feeling enraged as far back as I remember. Makes sense, since [[Our sense of fairness evolved to make cooperation robust]].
+- ### As humans, we yearn for
+	- All points copied from [here](https://quizlet.com/ca/464439578/acceptance-commitment-therapy-yearnings-pivots-flash-cards/).
+	- Belonging & Connection
+		- Humans yearn to belong and have caring relationships with others because of our origins as primates living in small tribes. A primate expelled from a troop is unlikely to survive on its own, so belonging in social groups became critical for survival.
+		- As a result, isolation, disconnection, and loneliness are some of the most harmful things that human beings can experience, because belonging, connecting, and cooperating with others are requirements for human survival and wellbeing.
+		- Our problem-solving mind mishandles this yearning by striving to be special in comparison with others to earn belonging and connection.
+		- This results in identifying more with our ego's stories about who we are and focusing more on how we're different from others, which results in traps of cognitive fusion with our conceptualized self and a greater sense of aloneness and alienation.
+		- The Self pivot involves defusing from our conceptualized self and shifting our perspective toward our transcendent observer self, which is inherently social, for the purpose of opening our awareness in relationship with others.
+		- This pivot helps fulfill our core yearning because our observer self is able to broaden our awareness and engagement in ways that naturally enhance unconditional belonging and connection with others. This pivot also simultaneously involves breaking free from the ego's conditions that we must first be more special than others in some way in order to belong and connect.
+	- Coherence & Understanding
+		- Our problem-solving mind mishandles this yearning by striving to "be right" and know THE one, true, correct story about how things are, which imposes a limited conceptual order onto our experience.
+		- This results in narrowing our experience of the world as we increasingly live inside our own heads and look our lives as if they're problems that need to be solved, which leads to the traps of seeking literal coherence and fusing with our cognitive ideas about things.
+		- The Defusion pivot involves shifting away from living in our heads by defusing from our thoughts and learning skills for noticing our thoughts with a sense of presence and immediate awareness.
+		- This pivot helps fulfill our core yearning by allowing us to shift toward seeking functional coherence by focusing on learning what works, which supports increased cognitive flexibility and pragmatic understanding.
+	- Feeling "I want to feel alive"
+		- Our problem-solving mind mishandles this yearning by sorting our experience into categories of what feels good and what feels bad, and then seeking to only feel what's "good" and never feel what's "bad."
+		- This results in trying to get rid of "bad" feelings like pain and discomfort and believing the false assumption that we will really feel good once we never feel bad, which leads to the traps of experiential avoidance, emotional dysfunction, and increasing numbness to all feelings and disconnection from our embodied experience. [[Pain is not optional but suffering is]].
+		- The Acceptance pivot involves shifting away from experiential avoidance toward emotional flexibility and experiential openness, which allows us to take in our experience in a way that supports greater vitality and resilience over the long-term.
+		- This pivot helps fulfill our yearning as we learn to open up to the full range of our feelings and recognize that every emotion has a place, which allows us to learn from pain, connect with our bodies, and more fully embrace our whole experience as part of living a life that's really worth living.
+	- Orientation
+		- Our problem-solving mind mishandles this yearning by trying to figure out how and why things happen, which increases how much we focus on ruminating about the past or worrying about the future.
+		- This results in shifting our attention away from the here and now as we increasingly focus on thinking about our conceptualized past and future, which leads to traps of cognitive fusion, mindlessless, and disconnection from our present experience.
+		- The Presence pivot involves shifting away from focusing on our conceptualized past and future by directing our attention to our present experience flexibly, fluidly, and voluntarily.
+		- This pivot helps fulfill our yearning because it results in greater orientation to our internal and external environments as we learn to focus more flexibly on noticing what is most useful and relevant to living by our values in the present.
+	- Self-Directed Meaning
+		- We yearn for self-directed meaning because we want to have **freedom** and agency to make choices about what we do with our lives.
+		- Our problem-solving mind mishandles this yearning by pursuing happiness through seeking what our culture promises will make us happy or seeking to please others.
+		- This results in increasingly engaging in programmed pursuits of happiness and meaning such as striving to aquire more things or striving to earn approal from others through social compliance, which lead to traps of losing touch with our personal values and experiencing greater emptiness and insensitivity.
+		- The Values pivot involves shifting away from pursuing happiness through acquisition or compliance, and turning toward finding direction and building meaning through pursuing our own personal values.
+		- This pivot helps fulfil our yearning as we live more in line with our chosen values and what really matters to us, which increases our sense of self-determination and personal motivation, and increases our sense of meaning and purpose.
+	- Competence
+		- We yearn for competence because we want to build skills and confidence for handling challenges we face in life.
+		- Our problem-solving mind mishandles this yearning by focusing on external achievements, which turns into workaholism when we strive for perfection or procrastination when we strive to avoid failure and mistakes.
+		- This results in becoming increasingly driven to always be perfect or always avoid failures, which leads to traps of slogging on in avoidant persistence or inaction and disengagement.
+		- The Action pivot involves shifting away from striving for perfectionism and avoiding failure, and turning toward consciously committing to taking actions that are guided by our values while accepting that discomfort and mistakes are part of learning and growth.
+		- This pivot helps fulfill our yearning as we focus on building habits that actually enlarge our abilities to live by our values, which increases our behavioural flexibility and skills, and results in a greater sense of competence and personal wholeness.
+		- Don't let the yearning for competence decay your urge to grow. [[Give away your legos]]
+		- [[I am ambitious]].

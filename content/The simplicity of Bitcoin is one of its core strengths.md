@@ -1,0 +1,9 @@
+- Bitcoin is a simple protocol that does a job.
+- One could argue that expanding the protocol would make a better protocol. The Bitcoin community has not followed these arguments to their logical conclusions, but instead kept the protocol simple. [[The reluctance of the Bitcoin community to change Bitcoin is one of its core strengths]]
+- Looking at the natural world, the patterns that make up the lower levels, are simple, yet everywhere.
+	- Plankton
+	- Bacteria
+	- DNA
+- Our brains are made up of simple cells that are connected. [[High-level simplicity can emerge from low-level complexity]].
+- Once a simple pattern (where a pattern embodies an explanation) with enough reach is found, systems built out of simple patterns emerge.
+- Simple patterns have fewer failure modes.

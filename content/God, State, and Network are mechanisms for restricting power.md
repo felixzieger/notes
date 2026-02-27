@@ -1,0 +1,8 @@
+
+- God, State, and Network as understood in [[The network state]].
+-
+- Societies are groups of people that can coordinate to a level that enhances member fitness compared to members of other groups.
+- Because decision making always happens within individuals, groups of people form hierarchies to grant central decision making authority. Everybody is member of multiple hierarchies: family, group of friends, companies, nations. All nodes within a hierarchy but the lowest ones, do exercise power with this hierarchy. Power describes the ability to enforce decisions top-down.
+- In this sense, God was a technology employed to restrict the powerful. As long as people believe that they are being judged for their actions, even if no one is watching, they will wield power more carefully.
+- When the top-down truth of God was no longer holding up sufficiently (Nietzsche proclaimed "God is dead"), States rose in the 20th century to regulate behaviour of nodes within their networks. However, there was a "root node problem": How do you restrict the most powerful nodes in a hierarchy? The answer was written into consitutions around the world. However, as we learned the hard way with UDSSR, Communist China, Nazi Germany, and on many other occasions, this didn't suffice to hold leaders accountable. The power-balance shifted towards central decision making to such a degree, that catastrophic famines, wars, and genocides ensued.
+- Networks like Bitcoin or free markets, are bottom-up mechanisms. In the case of Bitcoin, censorship and re-writing history becomes extremely hard thanks to cryptography. This is the first time we have a log of human action that is secure thanks to bottom-up truth (what holds even if people stop believing in it).

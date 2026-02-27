@@ -1,0 +1,1 @@
+After a problem is identified ([[The creation of a new explanation always starts with a problem]]) a first distinction is drawn between what needs to be part of an explanation (the system) and what doesn't need to be part of an explanation (outside world)

@@ -1,0 +1,12 @@
+
+- Since [[Human action is revealed preference under constraint]], action (whether it be actively doing things or passively doing "nothing") always show what you value.
+- Value is always subjective. There is no objective (absolute) value that we could measure. Since we can't look into peoples head, we have to find out what they value somehow. Listening to someones stated values is not sufficient, because people are not always stating all their values when speaking about what they think their values are (the calculation/ranking is complex and hard to break down verbally).
+-
+- I am not 100% clear on the connection, but [[Taking action is proof of work]] in some sense, so this seems to come together with Bitcoin people arguing for Bitcoins PoW system and against other systems.
+-
+- [[Wishful thinking stems from an impulse to minimise surprisal]] and we are susceptible to it. However, wishful thinking doesn't make things true. [[Reality is that which, when you stop believing in it, doesn’t go away]]. While you could wish for a world where everything you wish is being fulfilled without needing to rank your vales, can be spoken about, in the real world, [[Value is ranked and represented in ordinal numbers]].
+- This belief lies at the core of [[Quests focus on the transformative journey while goals focus on the outcome]]
+-
+- A quote I found somewhere around this: "There is no value without action"
+	- At first I thought this is not true. You can value something highly and than not act on it because of fear. But the fear is there because you value something else more, no?
+	- I still think it's not true: you value an potentially infinite amount of things. You have finite time and only act out important things. Doesn't mean you don't value the other ones

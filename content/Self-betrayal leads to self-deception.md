@@ -1,0 +1,13 @@
+- From the book "Self-Deception and Leadership"
+- While reading Atlas Shrugged I arrived at these definitions.
+	- Self-Betrayal: Acting against an impulse that's congruent with who I want to be.
+	- Self-Deception is the result of self-deception.
+		- Seeing myself better than I am. Seeing others as objects, not as people.
+		- Blaming others.
+		- Resisting that reality is at it is. Resisting that others are as they are.
+- Self-betrayal is a form of resistance. [[Our relation to reality determines our degree of freedom]]
+- Originally the book "Self-Deception and Leadership" defined two ways of being (towards a person or group):
+- Two ways of being (towards a person or group):
+	- in the box: Focused on myself. "Resisting what the humanity of others calls me to do for them." When we betray the sense of what we should be doing, we get self-deceived.
+		- Core difference of this definition to the one I use now: I shift the deciding criteria for impulses from outside of myself (acting on a *should*) to within my control (I decide who I want to be)
+	- out of the box: Focused on how people really are.

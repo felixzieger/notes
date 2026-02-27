@@ -1,0 +1,6 @@
+- The quote is from the "Pragmatists Guide" book series and refers to brain evolution.
+- Mutations are much more likely to (ab)use an existing system if feasible then creating an entirely new one from scratch.
+	- Examples:
+		- Love was primarily created to create strong bonds to offspring. Later it was used to make long-term pair bonds more stable.
+		- The arousal system makes us move towards/engage with something. Motivating and recognising displays of dominance later made also use of the arousal system.
+		- Disgust uses the arousal system with a "negative" modifier. Disgust is a response that cultures and religions commonly target to modify people's behaviour, often by "emotionally proving" that something is morally wrong because it feels disgusting. [[Disgust must not be used to make moral judgements]]

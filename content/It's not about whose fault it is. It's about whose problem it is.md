@@ -1,0 +1,1 @@
+- When dealing with something that went working, the important question is who it's owning the problem from now on.

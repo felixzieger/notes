@@ -1,0 +1,2 @@
+- The Theory of Constraints" is commonly attributed with the lean production and system's thinking.
+- This naturally fits together with the system's thinkers main concepts: [[Focus on stocks and flows when describing systems]].

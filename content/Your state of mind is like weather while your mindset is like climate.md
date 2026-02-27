@@ -1,0 +1,8 @@
+- Mindset
+	- "something I set"
+	- I can modify my mindset to face soluble problems  [[Optimists view problems as inevitable and soluble]]
+	- Climate; moving somewhere where there is better climate
+- State of mind
+	- Sounds like the result of something I do not necessarily control.
+	- I can't always modify my state of mind (experiencing grief, fear, ...) by sheer will but can find a way to live according to my values.  [[Acceptance happens when we stop viewing something as a problem to be solved]]
+	- Weather; accepting that the weather today is what it is

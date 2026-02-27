@@ -1,0 +1,2 @@
+- After reading Andy Matuschak's notes on [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes) I set out to start a new note taking system.
+- The reason I have come back to it again and again is that backlinks + statements as titles force me to think how insights are linked. If I would simply use concept names as titles, I think I would not have sticked to it.

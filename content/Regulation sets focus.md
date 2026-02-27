@@ -1,0 +1,11 @@
+
+- I recently had a discussion with a friend about the benefits and drawbacks of regulation in general and and anti-trust laws specifically. If I had to summarize my point for the benefits, I see regulation as a tool to steer what is being paid attention to on a societal level.
+- As humans, we face problems. By creativity we come up with possible solutions and our knowledge let's us predict how well solutions will work. In this sense, [[Knowledge is constraint]] on the solution space.
+- These constraints are what can make standardisation and regulation effecive. The best kind of regulation is based on our knowledge about how the world works (not on wishful thinking of how we think the world *should* work).
+- If our thinking is clear, and the knowledge applicable to the circumstances, we can steer away from further brain cycles investing the solution space or in navigating the results of fragmented/incompatible solutions.
+-
+- I think the best kind of standardisation is where multiple possible solutions exists and all work sufficiently well for the problem it started out solving, but having only one solution (a standard) unlocks additional value that no solution could deliver on its own.
+	- Example: Standardising on USB-C and forcing Apple to comply results in less friction for a lot of people. I don't see a practical problem in the sense of we are losing out on innovation for USB-C.
+	- Example: Standardising food labels allows consumers to quickly parse nutrition information. However else you structure it, if people have to figure out the label first (or there is no label), the effort required to navigate and make the best choices becomes higher.
+	- Example: Driving on the right side of the road.
+- There is an argument to be made, that "the market will fix this" in time and if it takes longer, the benefits of erring on the side of too little regulation outweigh the downsides of too much regulation (for example in the form of regulatory capture). I don't follow it, but I appreciate asking this questions for individual examples.

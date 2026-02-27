@@ -1,0 +1,4 @@
+- Judging the quality of a decision by it's outcome is called "resulting".
+	- There is a link between resulting and instrumentalism. In both cases, the quality of what you want to judge is substituted with a consequence:
+		- Instrumentalism is about taking the applicable parts (maths)of a scientific argument but not the whole explanation.
+		- Resulting is about taking the outcome of an decision but not what went into it.
