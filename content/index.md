@@ -2,6 +2,4 @@
 title: Public Notes
 ---
 
-These notes are synced from the public subset of my Obsidian vault.
-
-Use search, graph view, backlinks, and the explorer to navigate.
+I started note taking seriously in 2023 and [wrote about it on my blog](https://blog.felixzieger.de/note-taking/). In the same year I started to publish a subset of my notes. This is where you find them.
