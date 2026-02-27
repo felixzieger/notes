@@ -39,6 +39,15 @@ async function ensureDirectoryForFile(filePath) {
   await mkdir(path.dirname(filePath), { recursive: true })
 }
 
+async function directoryExists(dirPath) {
+  try {
+    const entry = await stat(dirPath)
+    return entry.isDirectory()
+  } catch {
+    return false
+  }
+}
+
 function parseAssetRef(raw) {
   const cleaned = raw.trim().replace(/^<|>$/g, "")
   const relativePath = cleaned.split(/\s+/, 1)[0]
@@ -46,6 +55,15 @@ function parseAssetRef(raw) {
 }
 
 async function main() {
+  const hasPublicSource = await directoryExists(srcPublicDir)
+  if (!hasPublicSource) {
+    console.warn(`Skipping sync: source directory is missing: ${srcPublicDir}`)
+    console.warn("Keeping existing Quartz content unchanged.")
+    return
+  }
+
+  const hasAssetsSource = await directoryExists(srcAssetsDir)
+
   await rm(dstContentDir, { recursive: true, force: true })
   await mkdir(dstContentDir, { recursive: true })
   await mkdir(dstAssetsDir, { recursive: true })
@@ -92,6 +110,11 @@ Use search, graph view, backlinks, and the explorer to navigate.
   let missingAssets = 0
 
   for (const assetRelative of assetsToCopy) {
+    if (!hasAssetsSource) {
+      missingAssets += 1
+      continue
+    }
+
     const srcAsset = path.join(srcAssetsDir, assetRelative)
     const dstAsset = path.join(dstAssetsDir, assetRelative)
 
